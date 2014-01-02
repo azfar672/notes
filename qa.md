@@ -7,7 +7,8 @@ planning, manual testing.   The other will specialize in automated testing.
 
 Here are several questions that I'd like you to respond to to
 help me select my team members.  Please answer in as much detail as possible,
-as this will be my main criterion for selecting the members:
+as this will be my main criterion for selecting the members.  Please also state
+your preference of "Manual Tester" or "Automated Tester"
 
 
 Problem:
@@ -28,13 +29,20 @@ consider in your answer:
 * what test cases would you test exactly
 * cross browser testing
 * regression testing
-* explain how you go about obtaining log files
+* explain how you go about obtaining log files in javascript, and in a Rails
+  application
+* explain what tools you will use for test case planning and management
+* explain what tools you will use for screenshots
+* explain what tools you will use for video recording bugs
 
-If you're on the "Feature testing" team:
+
+If you're on the "Automated testing" team:
 List your steps of how you would proceed from start to finish.  Things to
 consider in your answer:
 
-* automation tools (what would you use, and how yould you do it)
+* what automation tools would you use
+* how would you use them
+* how do you connect these tools to the CI server (we're using CircleCI)
 
 
 
