@@ -69,6 +69,9 @@ things must be true:
 * You have created controller tests for your controllers
 * You have created integration tests in capybara for end to end testing of your feature
 * You have run all of the tests, and they are passing
+* You have pulled the latest code from master, and merged the master branch
+  into your branch
+* You have fixed any git conflicts between your branch and master
 * You have pushed your branch to github, and it passes CI
 * You have issued a Pull Request on Github
 * Github should look like this: http://d.pr/i/dy2G
