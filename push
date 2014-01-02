@@ -1,0 +1,5 @@
+#!/bin/bash
+
+git add .
+git commit -am 'updating notes'
+git push origin master
