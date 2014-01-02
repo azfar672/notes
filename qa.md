@@ -112,7 +112,7 @@ information:
 Tools:
 ------
 
-** Screenshots: **
+**Screenshots:**
 
   When providing screenshots, please upload them to a hosted site, and only
   provide the URL. Tools such as droplr are good for taking quick screenshots
