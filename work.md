@@ -44,9 +44,9 @@ following things:
     - which cronjobs need to be set
 
 * TEST YOUR FEATURE
-    *DO NOT MARK WORK AS COMPLETED IF YOU HAVEN'T TESTED IT!!!*     I am not
+    **DO NOT MARK WORK AS COMPLETED IF YOU HAVEN'T TESTED IT!!!**     I am not
     QA, and don't have time to walk through every feature multiple times,
-    seeing if it works.  You need to test your feature *YOURSELF* before
+    seeing if it works.  You need to **test your feature YOURSELF** before
     communicating that the work is done.
 
 * Create a Github "Pull Request", to merge your branch into master.
@@ -54,10 +54,8 @@ following things:
   and leave comments on things to change or improve.  You should then make all
   fixes and push them to teh same branch, which will update the pull request.
 
-  If you don't know what a github pull request is, then google "github pull
-  request"_
-
-.. _"github pull request": http://lmgtfy.com/?q=github+pull+request
+  If you don't know what a github pull request is, then [google "github pull
+  request"](http://lmgtfy.com/?q=github+pull+request)
 
 
 What Qualifies as Completed
@@ -80,4 +78,3 @@ things must be true:
 
 We don't have time to test all of the code ourselves that is being pushed.  Its your job to ensure that a feature works as expected before marking it as
 complete.  That means *YOU NEED TO TEST IT* yourself, on the server.  Don't mark work as complete if you haven't tested it.
-
