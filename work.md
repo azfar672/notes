@@ -99,3 +99,31 @@ What to do Next?
 
   You will be able to observe the CI builds of the project once you are added
   to the Github Repo
+
+
+Tools
+-----
+
+* Set up your CI Monitor
+
+  Once you're set up, I will send you a CircleCI token (please remind me).
+  You should add it into this URL
+
+  https://circleci.com/cc.xml?circle-token=:circle-token
+
+  and add it to your CI monitor application.   Some useful applications if you
+  don't have any, are the following:
+
+  CCMenu: an OS X menu bar plugin. http://ccmenu.sourceforge.net/
+  BuildNotify: a GNU/Linux system tray plugin.  https://bitbucket.org/Anay/buildnotify/wiki/Home
+  CCTray: a Windows system tray plugin.  http://ccnet.sourceforge.net/CCNET/CCTray.html
+
+* Screenshots
+
+  A Useful tool for quickly taking and sharing screenshots is
+  [Droplr](https://droplr.com)  or  [CloudApp](http://getcloudapp.com/)
+
+* Pivotal
+
+  We use Pivotal Tracker for bug tracking and task management.  You will be
+  sent an invitation to the project once you join
