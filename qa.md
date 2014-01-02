@@ -34,6 +34,8 @@ consider in your answer:
 * explain what tools you will use for test case planning and management
 * explain what tools you will use for screenshots
 * explain what tools you will use for video recording bugs
+* explain your experience with pivotal tracker
+* explain how to file a bug on pivotal tracker
 
 
 **If you're on the "Automated testing" team:**
