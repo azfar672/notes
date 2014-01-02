@@ -66,16 +66,18 @@ What Qualifies as Completed
 In order for work to be considered as completed and approve, the following
 things must be true:
 
-* You must run all of the tests, and they are passing
-* You must push your branch to github, and it passes CI
+* You have run all of the tests, and they are passing
+* You have pushed your branch to github, and it passes CI
+* You have issued a Pull Request on Github
+* Github should look like this: http://d.pr/i/dy2G
 * You must deploy your code to the QA server
 * The features must work according to spec
-* You must have tested all of the features yourself on QA.
+* You must have tested all of the features yourself on the QA server.
 
 
+**THEN AND ONLY THEN, DO YOU REPORT THE WORK AS COMPLETED**
 
-We don't have time to test all of the code ourselves that is being pushed.  Its
-your job to ensure that a feature works as expected before marking it as
-complete.  That means *YOU NEED TO TEST IT* yourself, on the server.  Don't mark
-work as complete if you haven't tested it.
+
+We don't have time to test all of the code ourselves that is being pushed.  Its your job to ensure that a feature works as expected before marking it as
+complete.  That means *YOU NEED TO TEST IT* yourself, on the server.  Don't mark work as complete if you haven't tested it.
 
