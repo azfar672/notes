@@ -105,13 +105,14 @@ information:
 * Include a rails log if there is a 500 error - This will help debug the error
   more quickly
 * Please tell me if you don't know what a 500 error is
-* Include javascript logs if there are errors in the Javascript console
+* Include Javascript logs if there are errors in the Javascript console
 * Include browser type and version
 
 
 Tools:
 ------
 
-Screenshots:
+** Screenshots: **
+
   When providing screenshots, please upload them to a hosted site, and only
   provide the URL. Tools such as droplr are good for taking quick screenshots
