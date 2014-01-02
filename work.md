@@ -85,3 +85,17 @@ things must be true:
 
 We don't have time to test all of the code ourselves that is being pushed.  Its your job to ensure that a feature works as expected before marking it as
 complete.  That means *YOU NEED TO TEST IT* yourself, on the server.  Don't mark work as complete if you haven't tested it.
+
+
+
+
+What to do Next?
+----------------
+
+* Send me your Github username, and email address.  I will use this to add you
+  on Github, Pivotal, and Heroku
+
+* Join CircleCI:  https://circleci.com/?join=dont-test-alone
+
+  You will be able to observe the CI builds of the project once you are added
+  to the Github Repo
