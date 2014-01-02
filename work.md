@@ -65,6 +65,9 @@ What Qualifies as Completed
 In order for work to be considered as completed and approve, the following
 things must be true:
 
+* You have created unit tests for your models and its methods
+* You have created controller tests for your controllers
+* You have created integration tests in capybara for end to end testing of your feature
 * You have run all of the tests, and they are passing
 * You have pushed your branch to github, and it passes CI
 * You have issued a Pull Request on Github
