@@ -1,9 +1,9 @@
 Expectations
 ------------
 
-You do what you say you're going to do.
+You do what you say you're going to do
 
-You ask questions when you don't know something.
+You ask questions when you don't know something
 
 
 
@@ -12,14 +12,14 @@ How to Start a Task
 
 When you are assigned a task to perform:
 
-* Look up the existing story in Pivotal, and "Start" it.  If there is no story,
+* Look up the existing story in Pivotal, and click "Start" to start it.  If there is no story,
   then create one, assign it to the proper Epic, and start it
 
-* Create a new branch referencing the feature that you're implementing. 
+* Create a new git branch referencing the feature that you're implementing. 
   
-* *DO NOT COMMIT CODE TO MASTER*  - No code should ever be commited or merged
+* **DO NOT COMMIT CODE TO MASTER**  - No code should ever be commited or merged
   into master.  There is a code review process, and build/deploy automation.
-  Do NOT merge code into master
+  Do **NOT** merge code into master
 
 
 
@@ -37,13 +37,14 @@ following things:
 * make a checklist of the things that need to be done in order to release your
   code to the production servers
 * create a pivotal "chore"  ticket which lists all of the items in the
-  checklist
+  checklist, if any of the following apply:
     - which database migrations to run
     - which build scripts to run
     - which env variables or config settings need to be set
     - which cronjobs need to be set
 
 * TEST YOUR FEATURE
+
     **DO NOT MARK WORK AS COMPLETED IF YOU HAVEN'T TESTED IT!!!**     I am not
     QA, and don't have time to walk through every feature multiple times,
     seeing if it works.  You need to **test your feature YOURSELF** before
