@@ -37,6 +37,7 @@ consider in your answer:
 
 
 **If you're on the "Automated testing" team:**
+
 List your steps of how you would proceed from start to finish.  Things to
 consider in your answer:
 
