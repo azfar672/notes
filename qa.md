@@ -36,6 +36,10 @@ consider in your answer:
 * explain what tools you will use for video recording bugs
 * explain your experience with pivotal tracker
 * explain how to file a bug on pivotal tracker
+* We are currently a startup of 3 people, not a big enterprise like Microsoft.
+    Explain how other things you might be able to add to the team, that I
+    haven't mentioned here, that will help move the startup along at a much
+    faster rate
 
 
 **If you're on the "Automated testing" team:**
