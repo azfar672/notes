@@ -29,17 +29,16 @@ consider in your answer:
 * what test cases would you test exactly
 * cross browser testing
 * regression testing
-* explain how you go about obtaining log files in javascript, and in a Rails
-  application
+* explain how you go about obtaining log files in javascript, and in a Rails application
 * explain what tools you will use for test case planning and management
-* explain what tools you will use for screenshots
+* explain what tools you will use for capturing screenshots of bugs
 * explain what tools you will use for video recording bugs
 * explain your experience with pivotal tracker
 * explain how to file a bug on pivotal tracker
 * We are currently a startup of 3 people, not a big enterprise like Microsoft.
-    Explain how other things you might be able to add to the team, that I
+    Explain what other things you might be able to add to the team, that I
     haven't mentioned here, that will help move the startup along at a much
-    faster rate
+    more efficient rate
 
 
 **If you're on the "Automated testing" team:**
