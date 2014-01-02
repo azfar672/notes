@@ -99,11 +99,12 @@ information:
 * instructions on how to reproduce the problem:
   (make sure you've tested these instructions.  Make sure they are crystal
   clear, and include every step from start to finish.  These instructions will
-  be read by someone who *is not you*, and thus they won't have the benefit of
+  be read by someone who **is not you**, and thus they won't have the benefit of
   the knowledge you've acquired.  The most basic steps must be obtained from
   start to finish.
 * Include a rails log if there is a 500 error - This will help debug the error
   more quickly
+* Please tell me if you don't know what a 500 error is
 * Include javascript logs if there are errors in the Javascript console
 * Include browser type and version
 
