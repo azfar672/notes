@@ -74,10 +74,10 @@ things must be true:
 * You have fixed any git conflicts between your branch and master
 * You have pushed your branch to github, and it passes CI
 * You have issued a Pull Request on Github
-* Github should look like this: http://d.pr/i/dy2G
-* You must deploy your code to the QA server
-* The features must work according to spec
-* You must have tested all of the features yourself on the QA server.
+* Github looks like this: http://d.pr/i/dy2G
+* You have deployed your code to the QA server
+* You have tested all of the features yourself on the QA server.
+* The features work on the QA server according to spec
 
 
 **THEN AND ONLY THEN, DO YOU REPORT THE WORK AS COMPLETED**
