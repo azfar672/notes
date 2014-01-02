@@ -50,10 +50,10 @@ following things:
     seeing if it works.  You need to **test your feature YOURSELF** before
     communicating that the work is done.
 
-* Create a Github "Pull Request", to merge your branch into master.
+* **Create a Github "Pull Request"**, to merge your branch into master.
   Once you've created the pull request, I will review your code, line by line,
   and leave comments on things to change or improve.  You should then make all
-  fixes and push them to teh same branch, which will update the pull request.
+  fixes and push them to the same branch, which will update the pull request.
 
   If you don't know what a github pull request is, then [google "github pull
   request"](http://lmgtfy.com/?q=github+pull+request)
