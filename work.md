@@ -43,7 +43,7 @@ following things:
     - which env variables or config settings need to be set
     - which cronjobs need to be set
 
-* TEST YOUR FEATURE
+* **TEST YOUR FEATURE**
 
     **DO NOT MARK WORK AS COMPLETED IF YOU HAVEN'T TESTED IT!!!**     I am not
     QA, and don't have time to walk through every feature multiple times,
