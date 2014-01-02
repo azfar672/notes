@@ -6,7 +6,8 @@ developing.   One person will specialize in general QA - test case management,
 planning, manual testing.   The other will specialize in automated testing.
 
 Here are several questions that I'd like you to respond to to
-help me select my team members:
+help me select my team members.  Please answer in as much detail as possible,
+as this will be my main criterion for selecting the members:
 
 
 Problem:
